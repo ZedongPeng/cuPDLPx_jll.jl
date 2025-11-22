@@ -16,7 +16,7 @@ The tarballs for `cuPDLPx_jll.jl` have been built from these sources:
 
 `cuPDLPx_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=12.4, libc=glibc}` (`x86_64-linux-gnu-cuda+12.4`)
+* `Linux x86_64 {cuda=12.5, libc=glibc}` (`x86_64-linux-gnu-cuda+12.5`)
 
 ## Dependencies
 
