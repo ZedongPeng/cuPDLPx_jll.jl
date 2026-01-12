@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `cuPDLPx_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/ZedongPeng/cuPDLPx.git (revision: `6f01ab4ae2300065a16828cda58e3affff2f0e75`)
+* git repository: https://github.com/ZedongPeng/cuPDLPx.git (revision: `18ac97b6df1c98be7aed76b06b6d949f61d584bb`)
 
 ## Platforms
 
