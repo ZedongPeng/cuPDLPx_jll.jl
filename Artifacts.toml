@@ -21,10 +21,10 @@ os = "linux"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "13.0"
-git-tree-sha1 = "722aacf4470e04f909eab7237e1a014cc7801cdd"
+git-tree-sha1 = "19888976b18e3eeec53f93d291d41f5dd15c9177"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "a79a63d89b075a7f0998a5b06e3fe19d2622bd15dd8cc858e5e3fcea12a78b37"
+    sha256 = "c5a7b8ff99903b09f1f84950717789bfafe637e1a7d31264d3e414119a4493ef"
     url = "https://github.com/ZedongPeng/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.2+1/cuPDLPx.v0.2.2.x86_64-linux-gnu-cuda+13.0.tar.gz"
